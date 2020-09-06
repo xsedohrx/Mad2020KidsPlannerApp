@@ -1,1 +1,5 @@
-# Mad2020KidsPlannerApp
+# Mad2020KidsPlannerApp  
+
+Welcome to Kidsplanner  
+
+
