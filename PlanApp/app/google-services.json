@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884502018335",
+    "firebase_url": "https://kidsplanner-67a67.firebaseio.com",
+    "project_id": "kidsplanner-67a67",
+    "storage_bucket": "kidsplanner-67a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884502018335:android:662b124c58f7a0d01d182a",
+        "android_client_info": {
+          "package_name": "com.example.kidsplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884502018335-5g63bgeue3c8mgagsmo9rir05hb6dq4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TJGvY1mCojOeKWtsV_y51_CDhwWPnA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884502018335-5g63bgeue3c8mgagsmo9rir05hb6dq4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
